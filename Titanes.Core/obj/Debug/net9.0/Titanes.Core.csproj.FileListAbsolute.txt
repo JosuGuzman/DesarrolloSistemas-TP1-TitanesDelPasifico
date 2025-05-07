@@ -1,0 +1,12 @@
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.Core\bin\Debug\net9.0\Titanes.Core.deps.json
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.Core\bin\Debug\net9.0\Titanes.Core.dll
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.Core\bin\Debug\net9.0\Titanes.Core.pdb
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.Core\obj\Debug\net9.0\Titanes.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.Core\obj\Debug\net9.0\Titanes.Core.AssemblyInfoInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.Core\obj\Debug\net9.0\Titanes.Core.AssemblyInfo.cs
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.Core\obj\Debug\net9.0\Titanes.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.Core\obj\Debug\net9.0\Titanes.Core.sourcelink.json
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.Core\obj\Debug\net9.0\Titanes.Core.dll
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.Core\obj\Debug\net9.0\refint\Titanes.Core.dll
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.Core\obj\Debug\net9.0\Titanes.Core.pdb
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.Core\obj\Debug\net9.0\ref\Titanes.Core.dll

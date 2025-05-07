@@ -8,11 +8,11 @@ public class Jaeger
     public List<Habilidad> Habilidades;
     public List<Piloto> Pilotos;
 
-    public Jaeger (string nombre, string modelo, bool usaReactorNuclear)
+    public Jaeger (string nombre, string modelo, bool usaReactor)
     {
         Nombre = nombre;
         Modelo = modelo;
-        UsaReactorNuclear = usaReactorNuclear;
+        UsaReactorNuclear = usaReactor;
         Habilidades = new List<Habilidad>();
         Pilotos = new List<Piloto>();
     }

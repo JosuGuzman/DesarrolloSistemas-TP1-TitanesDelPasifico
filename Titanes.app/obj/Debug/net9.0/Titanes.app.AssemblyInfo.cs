@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Titanes.Core")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Titanes.app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3df38e3ed3cbcb636bdbed698516c71f8fea36b")]
-[assembly: System.Reflection.AssemblyProductAttribute("Titanes.Core")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Titanes.Core")]
+[assembly: System.Reflection.AssemblyProductAttribute("Titanes.app")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Titanes.app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

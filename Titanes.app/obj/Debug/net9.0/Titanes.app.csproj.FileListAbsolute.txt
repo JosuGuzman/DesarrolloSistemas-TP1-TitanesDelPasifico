@@ -1,0 +1,6 @@
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.app\obj\Debug\net9.0\Titanes.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.app\obj\Debug\net9.0\Titanes.app.AssemblyInfoInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.app\obj\Debug\net9.0\Titanes.app.AssemblyInfo.cs
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.app\obj\Debug\net9.0\Titanes.app.csproj.CoreCompileInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.app\obj\Debug\net9.0\Titanes.app.sourcelink.json
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloSistemas-TP1-TitanesDelPasifico\Titanes.app\obj\Debug\net9.0\Titanes.app.csproj.AssemblyReference.cache
