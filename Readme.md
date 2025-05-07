@@ -11,7 +11,7 @@
 
 **Apellido y Nombre Alumno**: Josu Guzman
 
-**Curso**: 5 ° 7
+**Curso**: 6 ° 7
 
 # 🌊 Titanes del Pacífico - Simulador de Batallas Kaiju vs Jaegers
 
